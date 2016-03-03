@@ -6,6 +6,6 @@ declared-services:
 applications:
 - services:
   - personality-insights-service
-  name: personality-insights-java
+  name: pi-test
   path: webApp.war
   memory: 512M
